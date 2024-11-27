@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="btn_section_plus_image">btn_section_plus_image</string>
+    <string name="btn_section_content_right_image">btn_section_content_right_image</string>
+    <string name="default_image">default_image</string>
+    <string name="today_23_min">today_23_min</string>
+    <string name="start_pause">start_pause</string>
+    <string name="pause">pause</string>
+    <string name="artist">artist</string>
+    <string name="title">title</string>
+</resources>
